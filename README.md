@@ -5,29 +5,35 @@ Impact of personalisation in tailored mobile consumer health systems
 
 #### Background:
 - Tailoring refers to any number of methods for creating individualised communications to modify behavioral determinants
+- Personalisation is a tailoring construct that gives the perception that information is tailored to the user creating a placebo effect
 - National Cancer Institute has invested $150 million in tailored communication research
 
 #### Need for the study:
 - Current literature on tailoring looks at it as a black box (unitrary construct)
   - It does not de-construct the different constructs of tailoring which affect behavior change
 	- Hawkins 2008 recommends looking at the individual constructs that impact tailoring outcomes for future researchers
+	- Only one other study looks at the placebo affect of the personalisation construct on smoking cessation
 - Previous literature provides constructs that create a tailored experience and recommends researching the impact of these contructs individually on behavioral change
 
 ##### Purpose and aims of the study:
 - Look at how the construct of personalisation impacts behavior change leading to better health outcomes in the context of mobile consumer health
 - Systematic review of current mobile applications reveals less than 6% meet personalisation criteria
-	- Personalisation is easiest to add, does not require an intelligent system
+	- Personalisation is easiest to add, does not require a recommender engine in the back-end
 
 ###### Research question
 1. How does the costruct of personalisation within tailoring impact behavioral outcomes?
 
 #### Literature review:
 ##### Methodology
-Systematic review using Kitchenham's formula
+- Systematic review using Kitchenham's formula
+- 35 relevant papers identified
+	- Systematic review of current smartphone application market
+	- Meta-analysis of current tailored healthcare studies
+	- Individual tailored studies in consumer health
 
 ##### Tailored health systems
-- Most systems focus on push based personalised messages using SMS
-- 10 studies identified in previous literature that focuses on tailoring
+- Most systems focus on push based tailored messages using SMS
+- 10 tailored consmer health intervention studies identified in previous literature that focuses on tailoring
 	- 8 reported behavior change based on tailored interventions
 	- Smoking cesation studies report significantly greater success rate
 
@@ -39,6 +45,11 @@ Systematic review using Kitchenham's formula
 - Feedback/content matching
 	- Some literature treats as one while other breaks it up into two different constructs
 	- Intelligently matching content based on theoretical grounding and to user's needs
+
+##### ...
+- Individuals who hold positive expectancies about tailoring
+might attend more to a tailored intervention than individuals who
+hold neutral or negative expectancies about tailoring
 
 #### Research design:
 - Health belief model
