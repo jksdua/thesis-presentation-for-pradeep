@@ -40,19 +40,26 @@ Systematic review using Kitchenham's formula
 	- Some literature treats as one while other breaks it up into two different constructs
 	- Intelligently matching content based on theoretical grounding and to user's needs
 
-##### Behaviour change constructs
-- Self-efficacy
-
 #### Research design:
 - Health belief model
-	- Used and proposed by previous literature
-	- 
+	- Used by previous literature on tailored healthcare apps
+	- Demographic variables (such as age, gender, ethnicity, occupation)
+	- Perceived efficacy (an individual's self-assessment of ability to successfully adopt the desired behavior)
+	- Perceived control (a measure of level of self-efficacy)
+	- Health motivation (whether an individual is driven to stick to a given health goal)
 
 - Alternative approaches used in literature
 	- I-Change and stages of change
 		- Used for measuring effectiveness of tailoring over time compared to non-tailored content
 		- Proves that tailored systems are able to adjust to unplanned progress and regress
 		- Personalisation levels are not impacted by stages of a user or an intervention program
+
+##### Selection of participants
+
+##### Data collection and analysis
+- Collected through the phone application due to ease of use and the fact that the user already has the app on their device
+	- Survey is sent as a push notification
+- Analysed using 
 
 #### Timetable:
 	- July & August - Instrument construction
