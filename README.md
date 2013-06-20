@@ -1,7 +1,7 @@
 ## Research Proposal - Presentation for Pradeep
 
 #### Title:
-Impact of personalisation in tailored mobile consumer health systems
+Impact of personalisation in tailored mobile consumer health systems using the health belief model
 
 #### Background:
 - Tailoring refers to any number of methods for creating individualised communications to modify behavioral determinants
@@ -46,18 +46,15 @@ Impact of personalisation in tailored mobile consumer health systems
 	- Some literature treats as one while other breaks it up into two different constructs
 	- Intelligently matching content based on theoretical grounding and to user's needs
 
-##### ...
-- Individuals who hold positive expectancies about tailoring
-might attend more to a tailored intervention than individuals who
-hold neutral or negative expectancies about tailoring
-
 #### Research design:
 - Health belief model
 	- Used by previous literature on tailored healthcare apps
-	- Demographic variables (such as age, gender, ethnicity, occupation)
-	- Perceived efficacy (an individual's self-assessment of ability to successfully adopt the desired behavior)
-	- Perceived control (a measure of level of self-efficacy)
-	- Health motivation (whether an individual is driven to stick to a given health goal)
+	- Participant features
+		- Demographic variables (such as age, gender, ethnicity, occupation)
+	- Type of behavior change
+		- Perceived efficacy (an individual's self-assessment of ability to successfully adopt the desired behavior)
+		- Perceived control (a measure of level of self-efficacy)
+		- Health motivation (whether an individual is driven to stick to a given health goal)
 
 - Alternative approaches used in literature
 	- I-Change and stages of change
@@ -67,10 +64,13 @@ hold neutral or negative expectancies about tailoring
 
 ##### Selection of participants
 
+
 ##### Data collection and analysis
-- Collected through the phone application due to ease of use and the fact that the user already has the app on their device
+- Collected through a survey within the phone application due to ease of use and the fact that the user already has the app on their device
 	- Survey is sent as a push notification
-- Analysed using 
+- Patients recruited from local medical centres in the area of Western Sydney
+- Qualitative analysis
+	- Construction of causal relationships suggested by literature to discuss behavioral change
 
 #### Timetable:
 	- July & August - Instrument construction
